@@ -6,7 +6,7 @@ export default function Home() {
     return (
         <main className='flex min-h-screen flex-col items-center  p-24'>
             <div>
-                <h1 className=' text-[20px]'>
+                <h1 className=' text-[22px]'>
                     Gratulerer så mye med de 50 år!{" "}
                     <span className=' text-[40px] text-center'>Pål 🥳</span>
                 </h1>
